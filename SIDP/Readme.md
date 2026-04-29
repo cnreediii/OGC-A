@@ -36,3 +36,43 @@ While there were dozens of participants in the SIDP initiative, the following we
 - Tony Wheeler (Sinclair Knight Merz)
 - ANZLIC (OGC Partner, Warwick Watkins, Chair 2004)
 - ASIBA (OGC Partner, Australian Spatial Information Business Association, David Hocking CEO)
+
+## Private Sector Participants
+
+ Compusult
+ ER-Mapper
+ ESRI Australia
+ Homer Systems
+ Kay consulting
+ MapInfo Australia
+ mapShed
+ MapWerks consortium (incl. Lisasoft & Terrapages)
+ NGIS (incl. Ionic software)
+ Omnilink
+ PSMA
+ SKM
+ Social Change Online
+ WebMap
+
+## Public Sector Participants
+ ACT Government and ICSM
+ Bureau of Meteorology
+ Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+ Cooperative Research Center for Spatial Information (CRC-SI)
+ Curtin University Department of Spatial Sciences
+ Geoscience Australia
+ NSW Dept of Lands
+ NSW Dept of Infrastructure, Planning and Natural Resources
+ VIC Country Fire Authority (CFA)
+ WA Department of Land Information (DLI)
+
+##Partner Projects
+
+ CRC-SI Emergency Management Demonstrator Project (EMDP)
+– Ms. Kylie Armstrong
+– Mr. Mark Carniello
+ Minerals Council of Australia, Solid Earth and Environment Grid project (MCA SEEGRid)
+
+## Infrastructure Support
+
+Esri, MapInfo, Oracle, Autodesk, Amristar, Social Change Online
