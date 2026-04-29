@@ -22,14 +22,16 @@ The project will establish a basis for the stabilising and growth of the spatial
 
 While there were dozens of participants in the SIDP initiative, the following were the key individuals:
 
-Rob Atkinson (Social Change Online)
-Peter Bailey (GIS Consultant, SIDP Demonstration Manager)
-Paul Kelly (Exec Dir national Office, ANZLIC)
-Renate Mason, PhD University of NSW
-Carl Reed, OGC
-Robert Starling, PhD (Consultant, Managing Director OGC Australia)
-Michael Wilson (SIDP Architect Lead, The Westbourne Group)
-Maurits van der Vlugt (Sinclair Knight Merz) SIDP Project Manager
-Tony Wheeler (Sinclair Knight Merz)
-ANZLIC (OGC Partner, Warwick Watkins, Chair 2004)
-ASIBA (OGC Partner, Australian Spatial Information Business Association, David Hocking CEO)
+- Rob Atkinson (Social Change Online)
+- Peter Bailey (GIS Consultant, SIDP Demonstration Manager)
+- Andy Dent (CSIRO) Editor SIDP Technical Architecture Report
+- Paul Kelly (Exec Dir national Office, ANZLIC)
+- Renate Mason, PhD University of NSW
+- Carl Reed (OGC) 
+- Simon Cox (CSIRO), Editor SIDP Technical Architecture Report
+- Robert Starling, PhD (Consultant, Document Editor, Managing Director OGC Australia)
+- Michael Wilson (SIDP Architect Lead, The Westbourne Group)
+- Maurits van der Vlugt (Sinclair Knight Merz) SIDP Project Manager
+- Tony Wheeler (Sinclair Knight Merz)
+- ANZLIC (OGC Partner, Warwick Watkins, Chair 2004)
+- ASIBA (OGC Partner, Australian Spatial Information Business Association, David Hocking CEO)
