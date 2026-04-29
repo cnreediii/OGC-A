@@ -25,6 +25,7 @@ While there were dozens of participants in the SIDP initiative, the following we
 - Rob Atkinson (Social Change Online)
 - Peter Bailey (GIS Consultant, SIDP Demonstration Manager)
 - Andy Dent (CSIRO) Editor SIDP Technical Architecture Report
+- R.M. Horton
 - Paul Kelly (Exec Dir national Office, ANZLIC)
 - Renate Mason, PhD University of NSW
 - Carl Reed (OGC) 
