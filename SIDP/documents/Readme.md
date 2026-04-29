@@ -4,7 +4,8 @@
 
 - Presentation: SIDP Overview and Demo Use Case.ppt
 - SIDP Technical Architecture
-- SIDP Nitional Architecture: Summary - This has an OGC document number but is currently not available via Agora/WorkDrive
+- SIDP Notional Architecture: Summary - This has an OGC document number but is currently not available via Agora/WorkDrive
+- SIDP Final Participants Report
 - Volume 1: Notional Architecture for a Geo-enabled Enterprise Portal Platform for the AusIndustry Spatial Interoperability
 Demonstration Project: Summary
 - Volume 2: Notional Architecture for a Geo-enabled Enterprise Portal Platform for the AusIndustry Spatial Interoperability
