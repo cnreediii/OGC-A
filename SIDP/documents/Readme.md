@@ -3,6 +3,7 @@
 ## Inventory
 
 - Presentation: SIDP Overview and Demo Use Case.ppt
+- SIDP Technical Architecture
 - Volume 1: Notional Architecture for a Geo-enabled Enterprise Portal Platform for the AusIndustry Spatial Interoperability
 Demonstration Project: Summary
 - Volume 2: Notional Architecture for a Geo-enabled Enterprise Portal Platform for the AusIndustry Spatial Interoperability
