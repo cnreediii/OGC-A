@@ -1,32 +1,38 @@
 # OGC Australasia
-Documents from the Australia Spatial Interoperability Demonstration Project 2003-2005
 
-## 
+OGC-Australasia (OGC-A) was formally incorporated in July 2003. Two projects were successfully completed in 2003 (Queensland and Western Australia Spatial Architectures) and the AusIndustry grant for the Interoperability Demonstration Project was awarded to the Australian Spatial Information Business Association (ASIBA) and an OGC-A led team. OGC-A was very active into 2007 when many of the original business and community objectives had been met. OGC-A evolved into the OGC Australia/New Zealand Regional Forum
 
-OGC-Australasia (OGC-A) was formally incorporated in July 2003. Two projects were successfully completed in 2003 (Queensland and Western Australia Spatial Architectures) and the AusIndustry grant for the Interoperability Demonstration Project was awarded to the Australian Spatial Information Business Association (ASIBA) and an OGC-A led team. 
+## Why OGC-A?
 
-## Summary of SIDP Initiative
+Australia and New Zealand have always been innovators in the development and use of spatial technology. The activities supported by OGC-A continues that tradition by promoting and leveraging the use of OpenGIS® Specifications that make spatial information part of the global "Spatial Web." 
 
-In 2003 the Open GIS Consortium, Inc – Australia (OGC – A) and ASIBA were engaged by the AusIndustry Innovation Access Program and Industry to realise a series of example scenarios that demonstrate how interoperable spatial data and processing services can aid in improving management and communications with the industry and communities of interest in public/civil emergencies and critical incident management such as bushfires.
+Since 1997, Australian organizations helped develop OpenGIS specifications and participated in OGC Interoperability Test Beds.
+
+Open interfaces and encodings represent an enormous opportunity for users and providers of spatial technology. OGC-A helps organizations in our part of the world get the most out of OGC participation and OGC-based spatial interoperability architectures.
+
+OGC-A business objectives include:
+- Raising awareness of the benefits of interoperability based on OGC standards
+- Promoting interoperability policies, guidelines and demonstrations for e-government
+- Increasing participation in OGC testbeds, pilot projects and demonstrations in the Asia/Pacific Region
+- Coordinating a strong Australia/New Zealand voice in the OGC.
 
 ## OGC Australia Membership in 2003
 
 In 2003, there were 14 member organizations as compared to 20 in Canada. However, the Geospatial/GIS activty in that time period was considerable. The 14 Member organizations were:
 
-CANRI (Community Access to Natural Resources Information Program)
-CSIRO
-Department for Environment and Heritage
-Department of Defence
-Department of Urban Services
-Dept. of Land Information
-Dept. of Natural Resources & Mines
-Earth Resource Mapping, Ltd.
-Geoscience Australia
-Gosford City Council
-Sinclair Knight Merz Pty Ltd. 
-Social Change Online
-University of Melbourne
-WALIS Office (Western Australian Land Information System)
+- CANRI (Community Access to Natural Resources Information Program)
+- CSIRO
+- Department for Environment and Heritage
+- Department of Defence- Department of Urban Services
+- Dept. of Land Information
+- Dept. of Natural Resources & Mines
+- Earth Resource Mapping, Ltd.
+- Geoscience Australia
+- Gosford City Council
+- Sinclair Knight Merz Pty Ltd. 
+- Social Change Online
+- University of Melbourne
+- WALIS Office (Western Australian Land Information System)
 
 ## Active Individuals in OGC-A Activities and Initiatives
 
