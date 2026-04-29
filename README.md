@@ -1,4 +1,4 @@
-# OGC Australasia
+# OGC AustralAsia
 
 OGC-Australasia (OGC-A) was formally incorporated in July 2003. Two projects were successfully completed in 2003 (Queensland and Western Australia Spatial Architectures) and the AusIndustry grant for the Interoperability Demonstration Project was awarded to the Australian Spatial Information Business Association (ASIBA) and an OGC-A led team. OGC-A was very active into 2007 when many of the original business and community objectives had been met. OGC-A evolved into the OGC Australia/New Zealand Regional Forum
 
