@@ -51,3 +51,18 @@ Tony Wheeler (Sinclair Knight Merz)
 ANZLIC (OGC Partner, Warwick Watkins, Chair 2004)
 ASIBA (OGC Partner, Australian Spatial Information Business Association, David Hocking CEO)
 
+## From the 2008 Value of Spatial Information Report - The impact of modern spatial information
+technologies on the Australian economy
+
+Industry in partnership with governments has made a contribution where there
+have been opportunities to do so.
+- The Spatial Interoperability Demonstrator Project (SIDP) has been largely
+successful in demonstrating the potential of an open, standards-based
+architecture.
+- The Shared Land Information Platform (SLIP) has delivered a distributed
+infrastructure, committed to open standards and partly based on open
+source software that greatly enhances the ability to discover, access and use
+spatial information and provides a proven mechanism for sharing
+information and reinforcing custodianship principles. SLIP is also proving
+to be an effective solution to address many of the issues of sharing spatial
+information across local government
