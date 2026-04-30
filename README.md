@@ -6,7 +6,7 @@ OGC-Australasia (OGC-A) was formally incorporated in July 2003. Two projects wer
 
 Australia and New Zealand have always been innovators in the development and use of spatial technology. The activities supported by OGC-A continues that tradition by promoting and leveraging the use of OpenGIS® Specifications that make spatial information part of the global "Spatial Web." 
 
-Since 1997, Australian organizations helped develop OpenGIS specifications and participated in OGC Interoperability Test Beds.
+Since 1997, Australian and New Zealand organizations helped develop OpenGIS specifications and participated in OGC Interoperability Test Beds.
 
 Open interfaces and encodings represent an enormous opportunity for users and providers of spatial technology. OGC-A helps organizations in our part of the world get the most out of OGC participation and OGC-based spatial interoperability architectures.
 
@@ -15,6 +15,18 @@ OGC-A business objectives include:
 - Promoting interoperability policies, guidelines and demonstrations for e-government
 - Increasing participation in OGC testbeds, pilot projects and demonstrations in the Asia/Pacific Region
 - Coordinating a strong Australia/New Zealand voice in the OGC.
+
+## Australia and New Zealand Member Contributions to the Standards work of the OGC
+
+Some of the keys Standards and related activities supported by Australian and New Zealand Members were/are:
+
+- Draft Gazetteer Service Specification (Rob Atkinson, editor) Simon Cox a contributor. 2001
+- Active role of CSIRO and Bureau of Meteorology in WaterML and HY_Features from 2008 up till 2014.
+- Social Change Online contracting CSIRO (2004?) to initiate work on the Observations and Measurements Standard. Initial draft published by OGC in 2006, Simon Cox Editor
+- DGGS Abstract Specification Topic 21. First review draft in 2018 (Robert Gibbs editor)
+- OGC Borehole Interoperability Experiment. Heavy particpation from Australian community 2019.
+- OGC API - DGGS Core (Dr. Matthew Brian John Purss, Jérôme Jacovella-St-Louis editors) 2025
+- And contributions to GML, WFS, WCS, OGC URN specification, GeoSciML
 
 ## OGC Australia Membership in 2003
 
@@ -36,7 +48,7 @@ In 2003, there were 14 member organizations as compared to 20 in Canada. However
 
 ## Active Individuals in OGC-A Activities and Initiatives
 
-The following individuals were active in a number of OGC activities in the 2003 - 2006 timeframe. You will notice that two of these individuals are still active in the OGC!
+The following individuals (and organizations) were active in a number of OGC activities in the 2001 - 2006 timeframe. You will notice that two of these individuals are still active in the OGC!
 
 Robert Starling, PhD (Consultant, Managing Director OGC Australia)
 Simon Cox (CSIRO)
@@ -45,8 +57,8 @@ Peter Bailey (GIS Consultant, SIDP Demonstration Manager)
 Paul Kelly (Exec Dir national Office, ANZLIC)
 Renate Mason, PhD University of NSW
 Michael Wilson (SIDP Architect Lead, The Westbourne Group)
-Maurits van der Vlugt (Sinclair Knight Merz) SIDP Project Manager
-Warwick Watkins (CEO of Geoscience Australia)
+Maurits van der Vlugt (Social Change Online, Sinclair Knight Merz) SIDP Project Manager
+Warwick Watkins (NSW State’s 24th Surveyor-General)
 Tony Wheeler (Sinclair Knight Merz)
 ANZLIC (OGC Partner, Warwick Watkins, Chair 2004)
 ASIBA (OGC Partner, Australian Spatial Information Business Association, David Hocking CEO)
