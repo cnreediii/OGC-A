@@ -62,6 +62,7 @@ Simon Cox (CSIRO)
 Rob Atkinson (Social Change Online)
 Peter Bailey (GIS Consultant, SIDP Demonstration Manager)
 Paul Kelly (Exec Dir national Office, ANZLIC)
+David Lemon (CSIRO)
 Renate Mason, PhD University of NSW
 Michael Wilson (SIDP Architect Lead, The Westbourne Group)
 Maurits van der Vlugt (Social Change Online, Sinclair Knight Merz) SIDP Project Manager
