@@ -21,12 +21,19 @@ OGC-A business objectives include:
 Some of the keys Standards and related activities supported by Australian and New Zealand Members were/are:
 
 - Draft Gazetteer Service Specification (Rob Atkinson, editor) Simon Cox a contributor. 2001
-- Active role of CSIRO and Bureau of Meteorology in WaterML and HY_Features from 2008 up till 2014.
 - Social Change Online contracting CSIRO (2004?) to initiate work on the Observations and Measurements Standard. Initial draft published by OGC in 2006, Simon Cox Editor
-- DGGS Abstract Specification Topic 21. First review draft in 2018 (Robert Gibbs editor)
-- OGC Borehole Interoperability Experiment. Heavy particpation from Australian community 2019.
-- OGC API - DGGS Core (Dr. Matthew Brian John Purss, Jérôme Jacovella-St-Louis editors) 2025
-- And contributions to GML, WFS, WCS, OGC URN specification, GeoSciML
+- Active role of CSIRO and Bureau of Meteorology in WaterML and HY_Features from 2008 up till 2014.
+- WaterML 2.0: Part 1- Timeseries. (Peter Taylor, CSIRO editor) Major particpation from Australian community 2012.
+- Sensor Observation Service (SOS) Interface Standard. COntributions from Australian Community. 2012
+- WaterML-WQ – an O&M and WaterML 2.0 profile for water quality data Best Practice (Simon Cox, Bruce Simmons editors)
+- WaterML2.0: Part 2 - Ratings, Gaugings and Sections (Peter Taylor, CSIRO editor) Major particpation from Australian community 2016.
+- OGC Geoscience Markup Language 4.1 (GeoSciML) Major contributions from Australian and New Zealand Members. 2016
+- DGGS Abstract Specification Topic 21. First review draft in 2018 (Robert Gibb editor)
+- OGC Borehole Interoperability Experiment. Major particpation from Australian community 2019.
+- Time Ontology in OWL (With W3C, Simon Cox and Chris Little editors) 2022.
+- OGC API - DGGS Core (Dr. Matthew Purss, Jérôme Jacovella-St-Louis editors) 2025
+- And contributions to GML, WFS, WCS, OGC URN specification, ModSpec, LandInfra (Late 1990s to present)
+- And participation in various OGC interoperability initiatives.
 
 ## OGC Australia Membership in 2003
 
