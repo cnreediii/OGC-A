@@ -1,6 +1,8 @@
 # OGC AustralAsia
 
-OGC Australia and New Zealand Members have been active in OGC activities and implementing OGC Standards from the late 1990s until today. This Git repository focuses on certain ctivities between 2002 and 2007. However, please look at the Australia/New Zealand Member Contributions section. The list of contributions os significant and can be extended!
+OGC Australia and New Zealand Members have been and continues to be very active in OGC standards development and implementing OGC Standards. This Git repository focuses on certain OGC related initiaitve and activities between 2002 and 2007. 
+
+NOTE: Please look at the Australia/New Zealand Member Contributions section. The list of contributions os significant and can be extended!
 
 OGC-Australasia (OGC-A) was formally incorporated in July 2003. Two projects were successfully completed in 2003 (Queensland and Western Australia Spatial Architectures) and the AusIndustry grant for the Interoperability Demonstration Project was awarded to the Australian Spatial Information Business Association (ASIBA) and an OGC-A led team. OGC-A was very active into 2007 when many of the original business and community objectives had been met. OGC-A evolved into the OGC Australia/New Zealand Regional Forum
 
