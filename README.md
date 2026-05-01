@@ -33,6 +33,7 @@ Some of the keys Standards and related activities supported by Australian and Ne
 - DGGS Abstract Specification Topic 21. First review draft in 2018 (Robert Gibb editor)
 - OGC Borehole Interoperability Experiment. Major particpation from Australian community 2019.
 - Time Ontology in OWL (With W3C, Simon Cox and Chris Little editors) 2022.
+- OGC GeoSPARQL - A Geographic Query Language for RDF Data. Major contributions from Australian Members as well as being editors. 2024
 - OGC API - DGGS Core (Dr. Matthew Purss, Jérôme Jacovella-St-Louis editors) 2025
 - And contributions to GML, WFS, WCS, OGC URN specification, ModSpec, LandInfra (Late 1990s to present)
 - And participation in various OGC interoperability initiatives.
